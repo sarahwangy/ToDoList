@@ -5,7 +5,6 @@ import List from './components/list';
 import Footer from './components/footer';
 
 
-
 export default class App extends Component {
   state = {
     todos: [
