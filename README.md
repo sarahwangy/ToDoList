@@ -64,7 +64,7 @@ The page will reload when you make changes.\
   In the process, I have not used Redux and Hooks, all of the states have been stored in their own components.
   I used class components and function components as well.
 
-#### How to transfer status between parents and children
+#### How to transfer state between parents and children
 
 - I know how to transfer status between different components: If parent components want to transfer state values to its kids, it can use
   this.props in class components or props in function components, then kids can accept and use those state values.
@@ -73,15 +73,15 @@ The page will reload when you make changes.\
 
 ## Improvements <a id="improvement"></a>
 
-- I will add some **react-icons** and use some UI libraries such as Ant Design or Material UI to render the style.
-- I will import **google-fonts** to create different word format.
-- I will use **hooks** or **redux** to improve this small project.
-- I will write test code for this project.
+- will add some **react-icons** and use some UI libraries such as Ant Design or Material UI to render the style.
+- will import **google-fonts** to create different word format.
+- will use **hooks** or **redux** to improve this small project.
+- will write test code for this project.
 
 - `npm test`
 
 Launches the test runner in the interactive watch mode.
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- Learn More
+- `Learn More`
   You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
