@@ -7,6 +7,7 @@ completed one by one using 'delete' button. Meanwhile, there is a 'status' butto
 Lastly, the 'clear finished tasks' button can remove all checked tasks immediately.
 \
 <br/>
+\
 ![image info](./public/img/todo-list.jpeg)
 
 ## Table of Contents
@@ -52,13 +53,10 @@ The page will reload when you make changes.\
 #### npm run build
 
 - I use 'npm run build' to bundles React in production mode, which can optimize the build to get the best performance.
-  Builds the app for production to the `build` folder.\
-
-The build is minified and the filenames include the hashes.\
-
-After build, the app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  Builds the app for production to the `build` folder.
+  The build is minified and the filenames include the hashes.
+  After build, the app is ready to be deployed!
+  See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 #### create-react-app
 
@@ -80,11 +78,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 - I will use **hooks** or **redux** to improve this small project.
 - I will write test code for this project.
 
-**### `npm test`**
+- `npm test`
 
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive watch mode.
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.  
- **## Learn More**
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Learn More
+  You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
