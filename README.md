@@ -23,14 +23,14 @@ Lastly, the 'clear finished tasks' button can remove all checked tasks immediate
 
 #### how to start? <a id="start"></a>
 
-This project was created by 'Create React App' script.
+- This project was created by 'Create React App' script.
 
-To run the app in development mode, you can run from project directory:
+- To run the app in development mode, you can run from project directory:
 
-npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
-The page will reload when you make changes.\
+`npm start`
+
+- Runs the app in the development mode.Open http://localhost:3000 to view it in your browser.
+- The page will reload when you make changes.\
 
 ## User Guidelines <a id="user"></a>
 
@@ -78,10 +78,11 @@ The page will reload when you make changes.\
 - will use **hooks** or **redux** to improve this small project.
 - will write test code for this project.
 
-- `npm test`
+`npm test`
 
-Launches the test runner in the interactive watch mode.
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Launches the test runner in the interactive watch mode.
+  See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- `Learn More`
-  You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+`Learn More`
+
+- You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
