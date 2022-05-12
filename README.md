@@ -6,7 +6,7 @@ This is a small react project that can enable users to add todo list, click the 
 completed one by one using 'delete' button. Meanwhile, there is a 'status' button in the bottom part, which can show users how many lists have been completed.
 Lastly, the 'clear finished tasks' button can remove all checked tasks immediately.
 \
-\
+<br/>
 ![image info](./public/img/todo-list.jpeg)
 
 ## Table of Contents
